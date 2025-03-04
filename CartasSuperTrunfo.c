@@ -14,7 +14,8 @@ int main() {
     float poder1,poder2,poder3,poder4;
     int pop,ar,pi,atr,perc,pod,dens;
 
-
+// inserir dados
+    
     printf("Informe os dados da cidade A01 abaixo:\n");
 
     printf("Nome da cidade:\n");
@@ -89,7 +90,7 @@ int main() {
     printf("\n");
     printf("\n");
     
- 
+ // resultados das comparações
 
     printf("Comparação de cartas\n");
     printf("Carta 1 = 1 e Carta 2 = 0\n");
